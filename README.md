@@ -1,9 +1,10 @@
-Full Stack Engineer passionate about building impactful SaaS solutions with a strong emphasis on creating high-performing, easily maintainable, and scalable applications. My technical expertise includes developing:
+As a Full Stack Engineer, I’m passionate about building impactful software that is high performing, maintainable, and scalable. I focus on creating clean, efficient solutions that deliver real value to users and businesses alike.
 
-- High-performance backends using Rust (Actix Web).
-- Dynamic and user-friendly frontends with TypeScript and Next.js.
-- Versatile server-side applications using Node.js and Express.
-- Efficient and customizable user interfaces with Tailwind CSS.
-- Scalable and flexible databases with MongoDB.
+💡 What I specialize in:
+- Backend Engineering: Crafting fast, reliable APIs using Rust (Actix Web) and Node.js (Express).
+- Frontend Development: Building dynamic, interactive UIs with TypeScript, Next.js, and Tailwind CSS, as well as Leptos for Rust powered web apps.
+- Database Design: Designing flexible, scalable schemas using MongoDB to support evolving product needs.
 
-I am eager to contribute my skills to forward-thinking teams and projects, where I can tackle complex challenges and deliver robust, valuable solutions.
+I’m passionate about clean architecture, performance, and great developer experience. I enjoy collaborating with forward thinking teams to solve complex problems and deliver robust, future ready solutions.
+
+Let’s connect and build something meaningful.
