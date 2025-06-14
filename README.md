@@ -1,5 +1,5 @@
-I'm a Software Engineer focused on building high-performance fullstack applications with Rust. I specialize in Leptos and Actix Web to deliver fast, reliable frontends and APIs, and use Rust for its unmatched speed, safety, and reliability in production systems.
+I'm a Software Engineer specializing in high-performance full-stack applications with Rust. I leverage Leptos for blazing-fast frontends and Actix Web for robust APIs, valuing Rust's unmatched speed, safety, and reliability in production.
 
-I'm also proficient with Next.js, TypeScript, Node.js (Express), Tailwind CSS, and MongoDB, enabling smooth collaboration in modern JavaScript, TypeScript, or hybrid Rust stacks. I build cross-platform apps for web, desktop, and mobile using Rust and Tauri, and I develop embedded systems with ESP32 using the Rust ecosystem.
+Beyond Rust, I'm proficient in Next.js, TypeScript, Node.js (Express), Tailwind CSS, and MongoDB, facilitating seamless collaboration across modern web stacks. My expertise also spans cross-platform app development (Web, Desktop, Mobile with Tauri) and embedded systems with ESP32.
 
-I value clean, maintainable code and excel in cross-functional teams. My development setup consists of Arch Linux, Neovim, Alacritty, Zsh, tmux, and i3, a keyboard-driven environment optimized for deep focus and high efficiency.
+I'm deeply committed to clean, maintainable code and thrive in cross-functional teams. My workflow is highly optimized by a keyboard-driven Arch Linux setup, utilizing i3, Neovim, Alacritty, Zsh, and tmux for peak efficiency and deep focus.
