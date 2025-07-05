@@ -24,10 +24,6 @@
   Full-featured management platform for cafes, built with Next.js, TypeScript, Tailwind CSS, and MongoDB. Features streamlined order management, inventory tracking, table and menu management, automated billing/invoicing, and a marketing blog post system.  
   [Live Demo](https://java-cafe-beta.vercel.app/) • [GitHub](https://github.com/rendivs925/java-cafe)
 
-- **Laptop Management System**  
-  Comprehensive solution for laptop service centers to manage and track repair requests, automate technician assignments, notify customers, and handle billing. Built with Next.js, TypeScript, Tailwind CSS, and MongoDB.  
-  [GitHub](https://github.com/rendivs925/laptop-service-management-system)
-
 - **Typing Test (Eletypes Frontend)**  
   Contributor to a feature-rich typing test tool inspired by monkeytype.com. Project offers multiple typing modes, detailed stats, visualizations, keyboard trainers, dynamic/static themes, zen/focus modes, and persistent settings.  
   [GitHub](https://github.com/rendivs925/eletypes-frontend)
