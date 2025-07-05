@@ -51,5 +51,7 @@ Development setup includes Arch Linux with i3, Neovim, Alacritty, Zsh, and tmux,
 - [LinkedIn](https://www.linkedin.com/in/rendivs925/)
 
 ---
-
-**Hobbies:** Programming, fishing, football
+**Hobbies:**  
+- **Programming:** I enjoy exploring new technologies, contributing to open-source projects, and building innovative solutions in my free time.  
+- **Fishing:** I love spending quiet mornings or weekends fishing. It's a great way to relax, connect with nature, and clear my mind.  
+- **Football:** Whether playing casually or watching matches, football keeps me active and brings out my team spirit.
