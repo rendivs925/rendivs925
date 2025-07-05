@@ -5,12 +5,19 @@
 ---
 
 ### 🛠️ Tech Stack
-- Rust (Leptos, Actix Web)
-- Next.js, TypeScript, Node.js (Express.js), Tailwind CSS
-- MongoDB, PostgreSQL, MySQL
-- GraphQL, Docker, GitHub Actions, Git
-- ESP32, Rust ecosystem (embedded)
-- Arch Linux + i3, Neovim, Alacritty, Zsh, tmux
+
+- **Rust** (Leptos, Actix Web, ESP32 embedded)  
+- **Next.js**, **TypeScript**, **Node.js** (Express.js)  
+- **Tailwind CSS**, **Material UI**, **SASS**
+- **MongoDB**, **PostgreSQL**, **MySQL**  
+- **GraphQL**, **Docker**, **GitHub Actions**, **Git**
+
+---
+
+### 💻 Development Environment
+
+- **Arch Linux** + i3  
+- **Neovim**, **Alacritty**, **Zsh**, **tmux**
 
 ---
 
@@ -29,7 +36,7 @@
   [Live Demo](https://eletypes.com/) • [GitHub](https://github.com/rendivs925/eletypes-frontend)
 
 - **AttendX**  
- Building an AI-powered attendance system for seamless, automated presence tracking in organizations. Developed with Rust and Leptos, leveraging computer vision and machine learning for real-time, accurate attendance through a modern, responsive interface. 
+  Building an AI-powered attendance system for seamless, automated presence tracking in organizations. Developed with Rust and Leptos, leveraging computer vision and machine learning for real-time, accurate attendance through a modern, responsive interface.  
   [GitHub](https://github.com/rendivs925/attendx)
 
 ---
@@ -51,7 +58,9 @@ Development setup includes Arch Linux with i3, Neovim, Alacritty, Zsh, and tmux,
 - [LinkedIn](https://www.linkedin.com/in/rendivs925/)
 
 ---
-**Hobbies:**  
+
+### 🎯 Hobbies
+
 - **Programming:** I enjoy exploring new technologies, contributing to open-source projects, and building innovative solutions in my free time.  
 - **Fishing:** I love spending quiet mornings or weekends fishing. It's a great way to relax, connect with nature, and clear my mind.  
 - **Football:** Whether playing casually or watching matches, football keeps me active and brings out my team spirit.
