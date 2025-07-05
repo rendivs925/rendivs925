@@ -26,7 +26,7 @@
 
 - **Typing Test (Eletypes Frontend)**  
   Contributor to a feature-rich typing test tool inspired by monkeytype.com. Project offers multiple typing modes, detailed stats, visualizations, keyboard trainers, dynamic/static themes, zen/focus modes, and persistent settings.  
-  [GitHub](https://github.com/rendivs925/eletypes-frontend)
+  [Live Demo](https://eletypes.com/) • [GitHub](https://github.com/rendivs925/eletypes-frontend)
 
 - **AttendX**  
  Building an AI-powered attendance system for seamless, automated presence tracking in organizations. Developed with Rust and Leptos, leveraging computer vision and machine learning for real-time, accurate attendance through a modern, responsive interface. 
