@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rendi Virgantara Setiawan (@rendivs925)
+# 👋 Hi, I'm Rendi Virgantara Setiawan
 
 🦀 **Rust Software Engineer**
 
