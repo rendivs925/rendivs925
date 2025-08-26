@@ -36,7 +36,7 @@
   [Live Demo](https://eletypes.com/) • [GitHub](https://github.com/rendivs925/eletypes-frontend)
 
 - AttendX  
-  AI-powered attendance system for organizations. Built with Rust + Leptos, combining real-time computer vision and ML for automated, accurate presence tracking.  
+  Building AI-powered attendance system for organizations. Built with Rust + Leptos, combining real-time computer vision and ML for automated, accurate presence tracking.  
   [GitHub](https://github.com/rendivs925/attendx)
 
 ---
@@ -61,6 +61,6 @@ I use a minimalist Arch Linux + i3 setup with Neovim, Alacritty, Zsh, and tmux, 
 
 ## Hobbies
 
-- Programming: Exploring Rust, robotics, and AI/ML—building innovative solutions and contributing to open-source.  
+- Programming: Exploring Rust, robotics, and AI/ML. Building innovative solutions and contributing to open-source.  
 - Fishing: Quiet mornings or weekends outdoors help me recharge and stay focused.  
-- Football: Enjoy both playing and watching—keeps me active and brings out my team spirit.  
+- Football: Enjoy both playing and watching. Keeps me active and brings out my team spirit.  
