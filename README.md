@@ -43,13 +43,13 @@
 
 ## About Me
 
-I am a Software Engineer specializing in high-performance fullstack applications with Rust. My main expertise is in Actix Web for scalable backends, Leptos for reactive frontends, and Diesel/SQLx for robust database access.  
+I’m a 🦀 Software Engineer specializing in high-performance fullstack applications with Rust. My primary stack combines Actix Web for scalable backends, Leptos for reactive frontends, and Diesel/SQLx for efficient database access. I build robust GraphQL & REST APIs, responsive interfaces with Tailwind CSS, and cross-platform applications using Tauri.
 
-I design and build GraphQL & REST APIs, responsive UIs with Tailwind CSS, and modern cross-platform apps with Tauri. My work spans PostgreSQL, MongoDB, MySQL, and applied projects in Robotics & AI/ML.  
+I’m experienced with PostgreSQL and MongoDB for data-driven systems, and I enjoy solving complex problems at both the application and database layer. Beyond web development, I explore Robotics and AI/ML, applying Rust and modern technologies to build intelligent, efficient systems.
 
-On the DevOps side, I rely on Docker for containerization, Git/GitHub for version control, and GitHub Actions for CI/CD. Always focusing on clean architecture, maintainable code, and reliable deployments.  
+On the DevOps side, I use Docker for containerization, Git/GitHub for version control, and GitHub Actions for CI/CD automation. Always aiming for clean architecture, maintainable code, and reliable deployments.
 
-I use a minimalist Arch Linux + i3 setup with Neovim, Alacritty, Zsh, and tmux, optimized for speed, efficiency, and distraction free development.  
+My development workflow is built around Arch Linux with i3, Neovim, Alacritty, Zsh, and tmux, optimized for speed, minimalism, and distraction free development.
 
 ---
 
