@@ -11,7 +11,6 @@
 - Frontend: Tailwind CSS, Material UI, SASS  
 - APIs: GraphQL & REST  
 - DevOps & Tools: Docker, Git/GitHub, GitHub Actions  
-- Other: Robotics & AI/ML (exploration & applied projects)  
 
 ---
 
@@ -48,7 +47,7 @@ I am a Software Engineer specializing in high-performance fullstack applications
 
 I design and build GraphQL & REST APIs, responsive UIs with Tailwind CSS, and modern cross-platform apps with Tauri. My work spans PostgreSQL, MongoDB, MySQL, and applied projects in Robotics & AI/ML.  
 
-On the DevOps side, I rely on Docker for containerization, Git/GitHub for version control, and GitHub Actions for CI/CD—always focusing on clean architecture, maintainable code, and reliable deployments.  
+On the DevOps side, I rely on Docker for containerization, Git/GitHub for version control, and GitHub Actions for CI/CD. Always focusing on clean architecture, maintainable code, and reliable deployments.  
 
 I use a minimalist Arch Linux + i3 setup with Neovim, Alacritty, Zsh, and tmux, optimized for speed, efficiency, and distraction free development.  
 
