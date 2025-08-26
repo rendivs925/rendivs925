@@ -1,66 +1,67 @@
-# 👋 Hi, I'm Rendi Virgantara Setiawan
+# Hi, I'm Rendi Virgantara Setiawan
 
-🦀 **Rust Software Engineer**
-
----
-
-### 🛠️ Tech Stack
-
-- **Rust** (Leptos, Actix Web, ESP32 embedded)  
-- **Next.js**, **TypeScript**, **Node.js** (Express.js)  
-- **Tailwind CSS**, **Material UI**, **SASS**
-- **MongoDB**, **PostgreSQL**, **MySQL**  
-- **GraphQL**, **Docker**, **GitHub Actions**, **Git**
+🦀 Software Engineer | Rust (Actix Web, Leptos, Diesel, SQLx) | PostgreSQL | MongoDB | GraphQL & REST APIs | Tailwind CSS | Docker | Git | Robotics & AI/ML Enthusiast
 
 ---
 
-### 💻 Development Environment
+## Tech Stack
 
-- **Arch Linux** + i3  
-- **Neovim**, **Alacritty**, **Zsh**, **tmux**
+- Rust (Actix Web, Leptos, Diesel, SQLx, Tauri)  
+- Databases: PostgreSQL, MongoDB, MySQL  
+- Frontend: Tailwind CSS, Material UI, SASS  
+- APIs: GraphQL & REST  
+- DevOps & Tools: Docker, Git/GitHub, GitHub Actions  
+- Other: Robotics & AI/ML (exploration & applied projects)  
 
 ---
 
-### 🚀 Projects
+## Development Environment
 
-- **Marine Probe**  
-  Real-time web dashboard for live marine sensor data. Uses MQTT for data ingestion, a Rust backend (Actix Web) for WebSocket serving, and a Leptos + Tailwind CSS frontend for reactive, real-time visualization. Includes a sensor simulator and supports flexible, real-time monitoring for marine research.  
+- Arch Linux + i3  
+- Neovim, Alacritty, Zsh, tmux  
+
+---
+
+## Projects
+
+- Marine Probe  
+  Real-time web dashboard for live marine sensor data. Uses MQTT for ingestion, Rust (Actix Web) backend for WebSocket serving, and Leptos + Tailwind CSS frontend for reactive visualization. Includes a simulator for flexible research monitoring.  
   [GitHub](https://github.com/rendivs925/marine-probe)
 
-- **Cafe Management System**  
-  Full-featured management platform for cafes, built with Next.js, TypeScript, Tailwind CSS, and MongoDB. Features streamlined order management, inventory tracking, table and menu management, automated billing/invoicing, and a marketing blog post system.  
+- Cafe Management System  
+  Full-featured management platform for cafes, built with Next.js, TypeScript, Tailwind CSS, MongoDB. Includes order management, inventory tracking, billing, and a marketing blog.  
   [Live Demo](https://java-cafe-beta.vercel.app/) • [GitHub](https://github.com/rendivs925/java-cafe)
 
-- **Typing Test (Eletypes Frontend)**  
-  Contributor to a feature-rich typing test tool inspired by monkeytype.com. Project offers multiple typing modes, detailed stats, visualizations, keyboard trainers, dynamic/static themes, zen/focus modes, and persistent settings.  
+- Typing Test (Eletypes Frontend)  
+  Contributor to a typing test tool inspired by monkeytype.com. Supports multiple modes, visual stats, keyboard trainers, dynamic/static themes, zen/focus modes, and persistent settings.  
   [Live Demo](https://eletypes.com/) • [GitHub](https://github.com/rendivs925/eletypes-frontend)
 
-- **AttendX**  
-  Building an AI-powered attendance system for seamless, automated presence tracking in organizations. Developed with Rust and Leptos, leveraging computer vision and machine learning for real-time, accurate attendance through a modern, responsive interface.  
+- AttendX  
+  AI-powered attendance system for organizations. Built with Rust + Leptos, combining real-time computer vision and ML for automated, accurate presence tracking.  
   [GitHub](https://github.com/rendivs925/attendx)
 
 ---
 
-### 👤 About Me
+## About Me
 
-Software Engineer specializing in high-performance, fullstack applications using Rust, with Leptos for reactive frontends and Actix Web for scalable backend services. Experienced in building robust APIs, responsive interfaces, and cross-platform apps for web, desktop, and mobile using Tauri.
+I am a Software Engineer specializing in high-performance fullstack applications with Rust. My main expertise is in Actix Web for scalable backends, Leptos for reactive frontends, and Diesel/SQLx for robust database access.  
 
-Proficient in modern web technologies including Next.js, TypeScript, Express.js, Node.js, Tailwind CSS, MongoDB, PostgreSQL, and MySQL. Skilled in embedded development with ESP32, leveraging the Rust ecosystem for efficient, low-level control and real-time performance.
+I design and build GraphQL & REST APIs, responsive UIs with Tailwind CSS, and modern cross-platform apps with Tauri. My work spans PostgreSQL, MongoDB, MySQL, and applied projects in Robotics & AI/ML.  
 
-Strong in DevOps workflows using Docker for containerization, Git/GitHub for version control, and GitHub Actions for CI/CD automation. Focused on clean architecture, maintainable code, and reliable deployments.
+On the DevOps side, I rely on Docker for containerization, Git/GitHub for version control, and GitHub Actions for CI/CD—always focusing on clean architecture, maintainable code, and reliable deployments.  
 
-Development setup includes Arch Linux with i3, Neovim, Alacritty, Zsh, and tmux, optimized for speed, minimalism, and distraction-free development.
+I use a minimalist Arch Linux + i3 setup with Neovim, Alacritty, Zsh, and tmux, optimized for speed, efficiency, and distraction free development.  
 
 ---
 
-### 📫 Connect
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rendivs925/)
 
 ---
 
-### 🎯 Hobbies
+## Hobbies
 
-- **Programming:** I enjoy exploring new technologies, contributing to open-source projects, and building innovative solutions in my free time.  
-- **Fishing:** I love spending quiet mornings or weekends fishing. It's a great way to relax, connect with nature, and clear my mind.  
-- **Football:** Whether playing casually or watching matches, football keeps me active and brings out my team spirit.
+- Programming: Exploring Rust, robotics, and AI/ML—building innovative solutions and contributing to open-source.  
+- Fishing: Quiet mornings or weekends outdoors help me recharge and stay focused.  
+- Football: Enjoy both playing and watching—keeps me active and brings out my team spirit.  
