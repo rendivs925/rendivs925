@@ -43,7 +43,7 @@
 
 ## About Me
 
-I’m a Software Engineer 🦀 who focuses on building reliable applications with **Rust**. I work with **Actix Web** for backends, **Leptos** for frontends, and use **Diesel** and **SQLx** with databases like **PostgreSQL** and **MongoDB**. I also enjoy creating cross-platform apps with **Tauri** and building interfaces with **Tailwind CSS** and **Material UI**.  
+I’m a Software Engineer who focuses on building reliable applications with **Rust**. I work with **Actix Web** for backends, **Leptos** for frontends, and use **Diesel** and **SQLx** with databases like **PostgreSQL** and **MongoDB**. I also enjoy creating cross-platform apps with **Tauri** and building interfaces with **Tailwind CSS** and **Material UI**.  
 
 I like solving technical challenges that require both system-level thinking and practical application, and I often explore how **Robotics** and **AI/ML** can be applied in real projects.  
 
