@@ -47,7 +47,8 @@ I’m a Software Engineer 🦀 who focuses on building reliable applications wit
 
 I like solving technical challenges that require both system-level thinking and practical application, and I often explore how **Robotics** and **AI/ML** can be applied in real projects.  
 
-For development and deployment, I use **Docker**, **Git/GitHub**, and **GitHub Actions** to keep things consistent and automated. My daily setup is **Arch Linux with i3**, **Neovim**, **Alacritty**, **Zsh**, and **tmux**, which helps me stay fast, efficient, and focused.  
+For development and deployment, I use **Docker**, **Git/GitHub**, and **GitHub Actions** to keep things consistent and automated. My daily setup is **Arch Linux with i3**, **Neovim**, **Alacritty**, **Zsh**, and **tmux**, which helps me stay fast, efficient, and focused.
+
 ---
 
 ## Connect
