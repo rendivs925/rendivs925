@@ -1,17 +1,9 @@
-Hi, I’m a 🦀 Rust Engineer who focuses on building reliable applications with Rust.
+Hi, I’m a 🦀 Rust Engineer focused on building reliable, high-performance software systems.
 
-I work with Actix Web and Axum for backends, Leptos for frontends, and use Diesel and SQLx with PostgreSQL and MongoDB.
+I work primarily on backend services using Actix Web and Axum, build reactive frontends with Leptos, and design data layers with PostgreSQL, MongoDB, SQLx, and Diesel. I also develop cross-platform desktop applications with Tauri, with an emphasis on clean architecture and long-term maintainability.
 
-I also build cross-platform apps with Tauri and sleek UIs using Tailwind CSS.
+I care deeply about systems design, correctness, and performance. I favor automation-first workflows, using Docker/Podman and GitHub Actions to keep development, testing, and deployment predictable and reproducible.
 
-Passionate about computer vision, AI/ML, and YOLO models, especially for real-time detection and space simulation. I love applying physics and math to solve challenging problems.
-
-I containerize with Podman and Docker, automate with GitHub Actions, and develop on Arch Linux using i3, Neovim, Alacritty, Zsh, and tmux for maximum speed and focus.
-
-Outside of production systems, I’m deeply fascinated by frontier physics.
-
-Particularly advanced propulsion concepts, exotic matter, zero-point energy, and UAP phenomenology.
-
-I enjoy exploring these ideas through simulations and reading the latest research papers on speculative space travel.
+I’m particularly interested in AI/ML and computer vision, especially real-time detection systems and simulation-driven experimentation. I enjoy applying mathematics and physics concepts to software problems where accuracy, scale, and performance matter.
 
 My Linkedin : [https://github.com/rendivs925](https://www.linkedin.com/in/rendivs925/)
