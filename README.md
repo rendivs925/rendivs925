@@ -1,4 +1,4 @@
-I am a Rust Engineer and independent researcher driven by the belief that today’s science fiction is simply tomorrow’s engineering.
+I am a 🦀 Rust Engineer and independent researcher driven by the belief that today’s science fiction is simply tomorrow’s engineering.
 
 I specialize in building high performance systems leveraging the speed and safety of Rust to architect the infrastructure of the next era. I treat my career as a strategic resource gathering phase and the foundation for a lifelong transition into deep tech science.
 
