@@ -5,3 +5,4 @@ I specialize in building high performance systems leveraging the speed and safet
 Beyond the code I am deeply immersed in frontier physics, AI, propulsion, and the reverse engineering of UAP and UFO phenomena. I am building the groundwork now to eventually establish my own lab and cultivate a community dedicated to radical research and development. I am looking to connect with the thinkers and builders who will help engineer the next frontier.
 
 My Linkedin : https://www.linkedin.com/in/rendivs925
+My Blog: https://rendivs925.github.io/blog/
